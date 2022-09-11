@@ -15,5 +15,3 @@ export default function App() {
     </Switch>
   );
 }
-
-// requisito 06
